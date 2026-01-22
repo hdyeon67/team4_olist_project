@@ -27,8 +27,8 @@ __pycache__/
 Thumbs.db
 
 # reports
-reports/figures/*.png
-reports/figures/*.jpg
+# reports/figures/*.png
+# reports/figures/*.jpg
 
 ### macOS ###
 # General
